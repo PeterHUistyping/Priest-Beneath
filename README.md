@@ -5,7 +5,7 @@ https://itch.io/jam/camgamejam/rate/1923196 <br>
 ## Unity GAME (C#)
 Click HERE to Play!  <br>
 https://peterhuistyping.github.io/Priest-Beneath/<br>
-![Game](Assets/Pic.PNG)
+![Game](Game_Jam/Pic.png)
 
 ## Thank for our great teammates collaborative working on this amazing Unity Game.
 
