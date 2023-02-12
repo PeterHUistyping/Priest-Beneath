@@ -3,7 +3,7 @@
 https://itch.io/jam/camgamejam <br>
 https://itch.io/jam/camgamejam/rate/1923196 <br>
 ## Unity GAME (C#)
-Press ENTER key to survive~  <br>
+Press SPACE key to survive~  <br>
 Click HERE to Play!  <br>
 https://peterhuistyping.github.io/Priest-Beneath/<br>
 ![Web](Game_Jam/Web.png)
