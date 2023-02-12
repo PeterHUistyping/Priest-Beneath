@@ -6,6 +6,7 @@ https://itch.io/jam/camgamejam/rate/1923196 <br>
 Click HERE to Play!  <br>
 https://peterhuistyping.github.io/Priest-Beneath/<br>
 
+## Thank for our great teammates collaborative working on this amazing Unity Game.
 
 ## Intro
 Be a priest, but beneath! With your super minigun made in 2077, break barriers to increase your shooting speed, and survive! Don't forget to hunt down the sprites to get COOOOOoOL buffs!
