@@ -1,9 +1,11 @@
 # Priest-Beneath
 ## 2023 CAMBRIDGE GAME JAM  <br> 
 https://itch.io/jam/camgamejam <br>
-## Unity GAME C# 
-https://peterhuistyping.github.io/Priest-Beneath/<br>
 https://itch.io/jam/camgamejam/rate/1923196 <br>
+## Unity GAME (C#)
+Click HERE to Play!  <br>
+https://peterhuistyping.github.io/Priest-Beneath/<br>
+
 
 ## Intro
 Be a priest, but beneath! With your super minigun made in 2077, break barriers to increase your shooting speed, and survive! Don't forget to hunt down the sprites to get COOOOOoOL buffs!
