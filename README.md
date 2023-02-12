@@ -5,12 +5,13 @@ https://itch.io/jam/camgamejam/rate/1923196 <br>
 ## Unity GAME (C#)
 Click HERE to Play!  <br>
 https://peterhuistyping.github.io/Priest-Beneath/<br>
+![Game](Assets/Pic.PNG)
 
 ## Thank for our great teammates collaborative working on this amazing Unity Game.
 
 ## Intro
 Be a priest, but beneath! With your super minigun made in 2077, break barriers to increase your shooting speed, and survive! Don't forget to hunt down the sprites to get COOOOOoOL buffs!
-
+![Frozen](Game_Jam/Frozen.png)
 ## Story Line
 Once upon a time, in a world of mystery and adventure, lived a priest named Samuel. He was known for his bravery, wisdom, and his unwavering faith in the Lord. Samuel was on a quest to explore the depths of the underground world, a place filled with untold riches, hidden secrets, and dangerous creatures.
 Samuel had heard many stories about this world and the treasures that lay beneath the surface. He was determined to find out the truth and unlock the mysteries that lay within. With his holy staff in hand, he descended into the underground world.<br>
